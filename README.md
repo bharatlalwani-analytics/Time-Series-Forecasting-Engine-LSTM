@@ -44,10 +44,7 @@ R2 Score: 0.65
 ## Visualization
 The project compares predicted prices with actual prices using line charts.
 
-<img width="1134" height="501" alt="image" src="https://github.com/user-attachments/assets/654f8bb3-ac8c-42a2-9740-82ad8082f66f" />
-
-
-
+<img width="1134" height="501" alt="Output" src="https://github.com/user-attachments/assets/85f05bba-1200-425f-93f7-11d935f20d4c" />
 
 ## Author
 Bharat Lalwani
